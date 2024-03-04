@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:yugandranbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail&logoColor=white&color=0078D4"></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/yugandran-b-b014b3249"><img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5"></a>
+  <a href="https://www.linkedin.com/in/yugandran-b-b014b3249/"><img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5"></a>
 </p>
 
 - 🔭 I’m currently working on **Health Care Analytics**
