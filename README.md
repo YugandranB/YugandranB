@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yugandran-b-b014b3249/"><img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5"></a>
 </p>
 
-- 🔭 I’m currently working on **Health Care Analytics**
+- 🔭 I’m currently working on **Health Care Analytics & Full Stack**
 - 🌱 I’m currently learning **Frontend Development | AI/ML | Frameworks | Software**
 - 👯 I’m looking to collaborate on **AI/ML & Computer Vision Projects**
 - 💬 Ask me about **Python | C | C++ | Java & MySQL**
