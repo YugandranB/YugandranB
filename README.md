@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yugandran B</title>
+  <style>
+    h1, h3 {
+      font-family: Papyrus;
+      background-color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi there! 👋 I'm Yugandran B</h1>
 <h3 align="center">🚀 Tech Enthusiast | ⚙️ AI/ML Explorer | 📊 Data Enthusiast | 🧠 Problem Solver</h3>
 
@@ -8,7 +23,7 @@
 
 - 🔭 I’m currently working on **Health Care Analytics**
 - 🌱 I’m currently learning **Frontend Development | AI/ML | Frameworks | Software**
-- 👯 I’m looking to collaborate on **AI/ML & Computer Vision related Projects**
+- 👯 I’m looking to collaborate on **AI/ML & Computer Vision Projects**
 - 💬 Ask me about **Python | C | C++ | Java & MySQL**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yugandranb&show_icons=true&locale=en" alt="yugandranb" />
 </p>
+
+</body>
+</html>
+
