@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yugandran B</title>
-  <style>
-    h1, h3 {
-      font-family: Papyrus;
-      background-color: #f0f0f0;
-    }
-  </style>
-</head>
-<body>
-
-<h1 align="center">Hi there! 👋 I'm Yugandran B</h1>
-<h3 align="center">🚀 Tech Enthusiast | ⚙️ AI/ML Explorer | 📊 Data Enthusiast | 🧠 Problem Solver</h3>
+<h1 align="center"><span style="font-family:Papyrus; background-color: #f0f0f0;">Hi there! 👋 I'm Yugandran B</span></h1>
+<h3 align="center"><span style="font-family:Papyrus; background-color: #f0f0f0;">🚀 Tech Enthusiast | ⚙️ AI/ML Explorer | 📊 Data Enthusiast | 🧠 Problem Solver</span></h3>
 
 <p align="center">
   <a href="mailto:yugandranbalaji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail&logoColor=white&color=0078D4"></a>
@@ -26,7 +11,7 @@
 - 👯 I’m looking to collaborate on **AI/ML & Computer Vision Projects**
 - 💬 Ask me about **Python | C | C++ | Java & MySQL**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><span style="font-family:Papyrus; background-color: #f0f0f0;">Languages and Tools:</span></h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -46,7 +31,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yugandranb&show_icons=true&locale=en" alt="yugandranb" />
 </p>
-
-</body>
-</html>
-
