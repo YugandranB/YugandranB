@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugandran B</h1>
-<h3 align="center">AI/ML Enthusiast | Innovator | Problem Solver</h3>
+<h3 align="center">AI/ML Enthusiast 🤖 | Innovator 💡 | Problem Solver 🔧</h3>
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI Projects**
 
