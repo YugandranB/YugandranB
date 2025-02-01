@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yugandranbalaji@gmail.com**
 
-- ⚡ Fun fact **I once spent more time optimizing a machine learning model than choosing my next laptop—because priorities! 😆💻**
+- ⚡ Fun fact **Spent more time optimizing an ML model than picking my next laptop—priorities! 😎🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
