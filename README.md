@@ -1,5 +1,10 @@
 <img aligns="right" src="https://visitor-badge.laobi.icu/badge?page_id=YugandranB.YugandranB"/>
-<h1 align="center">Hi 👋, I'm Yugandran B</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=70&duration=4000&pause=750&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Yugandran+B!;Welcome+To+My+Repo!+%F0%9F%A4%97" alt="Typing SVG" />
+  </a>
+</div>
+
 <h3 align="center">AI/ML Enthusiast 🤖 | Innovator 💡 | Problem Solver 🔧</h3>
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI Projects**
