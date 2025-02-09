@@ -32,9 +32,10 @@
 
 
 
-![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-snake-dark.svg)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YugandranB&card_width=600&card_height=250" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YugandranB&card_width=550" alt="GitHub Streak" /></a>
+
+![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-snake-dark.svg)
 
 
 
