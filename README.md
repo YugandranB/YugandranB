@@ -28,14 +28,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugandranb&show_icons=true&locale=en&layout=compact" alt="yugandranb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugandranb&show_icons=true&locale=en" alt="yugandranb" /></p>
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugandranb&show_icons=true&locale=en" alt="yugandranb" /></p
 
 
 
 ![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-snake-dark.svg)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YugandranB&card_width=600&card_height=250" alt="GitHub Streak" /></a>
 
 
 
