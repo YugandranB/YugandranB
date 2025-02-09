@@ -24,3 +24,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugandranb&show_icons=true&locale=en" alt="yugandranb" /></p>
 
+
+
+
+
+
+
+
+![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-contribution-grid-snake.gif)
+
