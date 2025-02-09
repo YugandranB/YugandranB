@@ -31,5 +31,5 @@
 
 
 
-![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YugandranB/YugandranB/blob/output/github-contribution-grid-snake.svg)
 
