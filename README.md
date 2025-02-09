@@ -1,3 +1,4 @@
+<img aligns="right" src="https://visitor-badge.laobi.icu/badge?page_id=YugandranB.YugandranB"/>
 <h1 align="center">Hi 👋, I'm Yugandran B</h1>
 <h3 align="center">AI/ML Enthusiast 🤖 | Innovator 💡 | Problem Solver 🔧</h3>
 
