@@ -6,16 +6,15 @@
 </div>
 
 <h3 align="center">AI/ML Enthusiast 🤖 | Innovator 💡 | Problem Solver 🔧</h3>
+<ul>
+  <li>👯 I’m looking to collaborate on <strong>Machine Learning & AI Projects</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/YugandranB">GitHub</a></li>
+  <li>💬 Ask me about <strong>Machine Learning & AI, Computer Vision</strong></li>
+  <li>📫 How to reach me <strong>yugandranbalaji@gmail.com</strong></li>
+  <li>🌐 Check out my portfolio at <a href="https://myportfolio-yugandranb.vercel.app/">My Portfolio</a></li>
+  <li>⚡ Fun fact <strong>Spent more time optimizing an ML model than picking my next laptop—priorities! 😎🤖</strong></li>
+</ul>
 
-- 👯 I’m looking to collaborate on **Machine Learning & AI Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YugandranB](https://github.com/YugandranB)
-
-- 💬 Ask me about **Machine Learning & AI, Computer Vision**
-
-- 📫 How to reach me **yugandranbalaji@gmail.com**
-
-- ⚡ Fun fact **Spent more time optimizing an ML model than picking my next laptop—priorities! 😎🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
