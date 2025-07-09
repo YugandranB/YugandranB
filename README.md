@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">
-   AI Engineer &nbsp; • &nbsp;  Machine Learning Specialist &nbsp; • &nbsp;  Intelligent Systems Developer
+   🤖 AI Engineer &nbsp; • &nbsp;  📊 Machine Learning Specialist &nbsp; • &nbsp;  🧠 Intelligent Systems Developer
 </h3>
 
 
