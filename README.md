@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=70&duration=4000&pause=750&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Yugandran+B!;Welcome+To+My+Repo!+%F0%9F%A4%97" alt="Typing SVG" />
   </a>
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YugandranB.YugandranB"/>
-
 
 <h3 align="center">AI Engineer 🤖 • Machine Learning Specialist 📊 • Intelligent Systems Developer 🧠</h3>
 
