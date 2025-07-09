@@ -5,7 +5,10 @@
   </a>
 </div>
 
-<h3 align="center">AI Engineer 🤖 • Machine Learning Specialist 📊 • Intelligent Systems Developer 🧠</h3>
+<h3 align="center">
+  👨‍💻 AI Engineer &nbsp; • &nbsp; 📈 Machine Learning Specialist &nbsp; • &nbsp; 🧠 Intelligent Systems Developer
+</h3>
+
 
 <!-- Socials -->
 <p align="center">
